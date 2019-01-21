@@ -9,9 +9,9 @@ public class BankAccountApp {
 		
 		List<Account> accounts = new LinkedList<Account>();
 		
-		/*Savings savacc1 = new Savings("Rich Lowe", "987654321", 2500);
+		/*Savings savacc1 = new Savings("John Kowalski", "987654321", 2500);
 		
-		Checking chkacc1 = new Checking("Tom Wilson", "123456789", 1500);
+		Checking chkacc1 = new Checking("Tom Nowak", "123456789", 1500);
 		
 		savacc1.showInfo();
 		
